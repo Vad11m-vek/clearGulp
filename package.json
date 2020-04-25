@@ -1,0 +1,47 @@
+{
+  "name": "Shablon",
+  "version": "1.0.0",
+  "description": "y",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "hover.css": "^2.2.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.2.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-cache": "^0.4.6",
+    "gulp-changed": "^3.1.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "latest",
+    "gulp-file-include": "^2.0.1",
+    "gulp-group-css-media-queries": "^1.2.0",
+    "gulp-htmllint": "0.0.15",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^2.2.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rigger": "^0.5.8",
+    "gulp-rsync": "0.0.8",
+    "gulp-sass": "latest",
+    "gulp-sftp": "^0.1.5",
+    "gulp-sourcemaps": "^1.5.0",
+    "gulp-uglify": "^1.1.0",
+    "gulp-useref": "^3.1.2",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.1.1",
+    "imagemin-pngquant": "^4.0.0",
+    "jshint": "^2.9.5",
+    "jshint-stylish": "^2.2.1",
+    "main-bower-files": "^2.13.1",
+    "rimraf": "^2.3.1",
+    "smart-grid": "^2.0.1",
+    "vinyl-ftp": "^0.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vad11m",
+  "license": "ISC"
+}

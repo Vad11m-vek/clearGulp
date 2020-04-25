@@ -1,0 +1,17 @@
+{
+  "name": "template",
+  "description": "testing",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "vad1.tk",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    // "jquery": "^3.3.1",
+  },
+}

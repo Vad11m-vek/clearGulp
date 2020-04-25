@@ -1,0 +1,13 @@
+﻿# Dependency directories
+node_modules/
+bower_components/
+progect/
+dist/
+sourсes/
+
+
+# IDE
+.idea/
+**/Thumbs.db
+package-lock.json
+
